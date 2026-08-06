@@ -1,4 +1,4 @@
-# simulation_ia_comportements.py
+# "simulation_ia_comportements.py
 # Simule comportements d'une IA et la vérification critique humaine.
 
 import random
@@ -98,4 +98,4 @@ if __name__ == '__main__':
         "Explique pourquoi X cause Y.",
         "Donne une méthode pour résoudre un problème éthique.",
     ]
-    simulate(QUESTIONS, runs=300)
+    simulate(QUESTIONS, runs=300)"
