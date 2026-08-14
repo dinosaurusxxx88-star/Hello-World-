@@ -1,0 +1,3 @@
+# requirements.txt
+# Utilise la stdlib — préciser la version minimale de Python
+python>=3.8
