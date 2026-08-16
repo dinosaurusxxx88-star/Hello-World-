@@ -1,4 +1,6 @@
 # requirements-dev.txt
+# Dépendances de développement et test
+
+# Testing framework
 pytest>=7.0
-black>=23.0
-flake8>=6.0
+pytest-cov>=4.0
