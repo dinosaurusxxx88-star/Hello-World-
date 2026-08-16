@@ -1,3 +1,4 @@
+from __future__ import annotations
 # simulation/ia_comportements.py
 # Simule comportements d'une IA et la vérification critique humaine.
 
